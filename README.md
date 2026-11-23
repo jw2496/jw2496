@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Eleanor 👋
+
+Product Strategy & Operations professional in New York
+
+- 🚀 5 years across **TikTok** (product operations, global launches across 35+ markets) and **Deloitte** (strategy & operations consulting)
+- 🎓 M.S. in Applied Analytics, **Columbia University**
+- 🤖 Exploring **AI agents**, creative AI, voice AI, and how businesses bring AI into real workflows
+- 🎬 Interested in creators, media, and the future of creative tools
+- 🌏 English / Mandarin
+
 
 <!--
 **jw2496/jw2496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
